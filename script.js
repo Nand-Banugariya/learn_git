@@ -15,5 +15,5 @@ const diff = (a,b)=>{
 
 diff(5,2)
 
-console.log('Nand');
-console.log('Nand');
+console.log('Nand*****************************');
+console.log('Nand*****************************************');
