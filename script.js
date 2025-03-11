@@ -8,7 +8,7 @@ const sum = (a,b)=>{
 
 sum(2,3)
 
-const diff = (a,b)=>{
+const diff = (a,num)=>{
     
     console.log(a-b);
 }
