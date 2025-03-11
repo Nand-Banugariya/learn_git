@@ -15,4 +15,4 @@ const diff = (a,b)=>{
 
 diff(5,2)
 
-console.log('Hello, world!');
+console.log("*******************************************nand")
